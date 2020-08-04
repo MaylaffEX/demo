@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   }
-  "Books": [
+  "books": [
   {"id":1, "title": "Books 1"},
   {"id":2, "title": "Books 2"},
   {"id":3, "title": "Books 3"}
