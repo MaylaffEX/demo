@@ -13,7 +13,7 @@
   },
   "books": [
   {"id":1, "title": "Books 1", "img_src":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327909683l/49455.jpg"},
-  {"id":2, "title": "Books 2"},
+  {"id":2, "title": "Books 2", "img_src":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359061917l/485894.jpg"},
   {"id":3, "title": "Books 3"}
   ]
 }
