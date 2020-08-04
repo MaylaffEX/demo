@@ -10,7 +10,7 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
   "books": [
   {"id":1, "title": "Books 1"},
   {"id":2, "title": "Books 2"},
